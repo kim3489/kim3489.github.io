@@ -6,7 +6,7 @@ title: 김찬우
 superuser: true
 
 # Role/position
-role: sophormore
+- role: sophormore
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
- name: JEONBUK NATIONAL UNIVERSITY
+ - name: JEONBUK NATIONAL UNIVERSITY
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "kcw5608@jbnu.ac.kr"
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
