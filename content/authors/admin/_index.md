@@ -6,15 +6,15 @@ title: 김찬우
 superuser: true
 
 # Role/position
-role: 'sophormore'
+role: sophormore
 
 # Status emoji
 status:
   icon: ☕️
 
 # Organizations/Affiliations
-organizations:JEONBUK NATIONAL UNIVERSITY
- #name: JEONBUK NATIONAL UNIVERSITY
+organizations:
+ name: JEONBUK NATIONAL UNIVERSITY
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
