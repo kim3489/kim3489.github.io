@@ -6,7 +6,7 @@ title: 김찬우
 superuser: true
 
 # Role/position
-- role: sophormore
+role: 2학년
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
- - name: JEONBUK NATIONAL UNIVERSITY
+ - name: 전북대학교 컴퓨터인공지능학부
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
