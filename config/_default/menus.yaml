@@ -7,6 +7,44 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
+  - name: About
     url: about/
-    weight: 20
+    weight: 100
+
+  - name: Interest
+    url: interest
+    weight: 200
+  - parent: Interest
+    name: football
+    url: /interest/football/
+    weight: 210
+  - parent: Interest
+    name: baseball
+    url: /interest/baseball/
+    weight: 220
+
+  - name: Music
+    url: music
+    weight: 200
+  - parent: Music
+    name: Rock
+    url: /music/rock/
+    weight: 210
+  - parent: Music
+    name: Hip Hop
+    url: /music/hiphop/
+    weight: 220
+
+  - name: Contact
+    url: contact
+    weight: 200
+  - parent: Contact
+    name: phone
+    url: /contact/phone/
+    weight: 210
+  - parent: Contact
+    name: map
+    url: /contact/map/
+    weight: 220
+
+    
