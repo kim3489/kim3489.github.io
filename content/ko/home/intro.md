@@ -16,6 +16,43 @@ author: admin
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+
+- block: collection
+    content:
+      id: section-1
+      title: Interest
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - football
+          - baseball
+          
+    design:
+      view: community/custom_card
+      columns: '2'
+
+- block: collection
+    content:
+      id: section-1
+      title: music
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - rock
+          - hiphop
+     
+   
+   design:
+      view: community/custom_card
+      columns: '2'
 ---
 
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
