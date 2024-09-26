@@ -16,11 +16,11 @@ main:
     weight: 200
   - parent: Interest
     name: football
-    url: /interest/football/
+    url: football
     weight: 210
   - parent: Interest
     name: baseball
-    url: /interest/baseball/
+    url: baseball
     weight: 220
 
   - name: Music
@@ -28,11 +28,11 @@ main:
     weight: 200
   - parent: Music
     name: Rock
-    url: /music/rock/
+    url: rock
     weight: 210
   - parent: Music
     name: Hip Hop
-    url: /music/hiphop/
+    url: hiphop
     weight: 220
 
   - name: Contact
@@ -40,11 +40,11 @@ main:
     weight: 200
   - parent: Contact
     name: phone
-    url: /contact/phone/
+    url: phone
     weight: 210
   - parent: Contact
     name: map
-    url: /contact/map/
+    url: map
     weight: 220
 
     
