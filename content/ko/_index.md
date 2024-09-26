@@ -10,38 +10,38 @@ sections:
       title: <span style="font-size:70%">Kcw web </span>
       text: <br><span style="font-size:125%">전북대학교 컴퓨터인공지능학부 2학년 김찬우의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
         
-  - block: slider
-      content:
-        slides:
+   - block: slider
+    content:
+      slides:
 
-        - title: <span style="font-size:70%">Development</span>
-          content: <span style="font-size:70%">Back-end 개발, DB개발 </span>
-          align: center
-         background:
-            image:
-              filename: development.jpg
-              filters:
-               brightness: 0.4
-            position: center
-            color: '#000'
+      - title: <span style="font-size:70%">Development</span>
+        content: <span style="font-size:70%">Back-end 개발, DB개발 </span>
+        align: center
+        background:
+          image:
+            filename: development.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-        - title: <span style="font-size:70%">Interest</span>
-          content: <span style="font-size:70%">football, baseball </span>
-          align: center
-          background:
-            image:
-              filename: football.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
+      - title: <span style="font-size:70%">Interest</span>
+        content: <span style="font-size:70%">football, baseball <span style="font-size:70%">
+        align: center
+        background:
+          image:
+            filename: football.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-        design:
-          slide_height: '700px'
-          slide_width: '100px'
-          is_fullscreen: false
-          loop: true
-          interval: 3000
+    design:
+      slide_height: '350px'
+      slide_width: '100px'
+      is_fullscreen: false
+      loop: true
+      interval: 3000
 
   - block: collection
     content:
