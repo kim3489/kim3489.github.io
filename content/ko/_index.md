@@ -56,7 +56,9 @@ sections:
         folders:
           - football
           - baseball
-
+    design:
+      view: community/custom_card
+      columns: '2'
 
   - block: collection
     content:
@@ -71,5 +73,8 @@ sections:
         folders:
           - rock
           - hiphop
+    design:
+      view: community/custom_card
+      columns: '2'
   
 ---
