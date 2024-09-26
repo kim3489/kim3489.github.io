@@ -20,6 +20,8 @@ sections:
         background:
           image:
             filename: development.jpg
+            filters:
+              brightness: 0.4
           position: center
           color: '#000'
 
@@ -29,6 +31,8 @@ sections:
         background:
           image:
             filename: football.jpg
+            filters:
+              brightness: 0.4
           position: center
           color: '#000'
 
