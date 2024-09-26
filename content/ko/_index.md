@@ -37,7 +37,7 @@ sections:
           color: '#000'
 
       design:
-        slide_height: '350px'
+        slide_height: '700px'
         slide_width: '100px'
         is_fullscreen: false
         loop: true
