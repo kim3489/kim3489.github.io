@@ -12,8 +12,57 @@ baseURL: 'https://kim3489.github.io/' # Website URL
 
 defaultContentLanguage: ko
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
+languages:
+  ko:
+    contentDir: content/ko
+    disabled: false
+    languageCode: ko-KO
+    languageDirection: ltr
+    languageName: Korean
+    menus:
+      main:
+      - name: 관심사
+        pageRef: /interest
+        weight: 10
+      - name: 음악
+        pageRef: /music
+        weight: 20
+      - name: 연락
+        pageRef: /contact
+        weight: 30
+      - name: 자기소개
+        pageRef: /about
+        weight: 40
+    params:
+      subtitle: 참조, 튜터리얼, 설명
+    title: 프로젝트 문서
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    menus:
+      main:
+      - name: Interest
+        pageRef: /interest
+        weight: 10
+      - name: Music
+        pageRef: /music
+        weight: 20
+      - name: Cotact
+        pageRef: /contact
+        weight: 30
+      - name: About
+        pageRef: /about
+        weight: 40
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 2
 
 ############################
 ## ADVANCED
