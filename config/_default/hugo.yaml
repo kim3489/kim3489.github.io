@@ -28,23 +28,6 @@ languages:
     languageCode: en-US
     languageDirection: ltr
     languageName: English
-    menus:
-      main:
-      - name: Interest
-        pageRef: /interest
-        weight: 10
-      - name: Music
-        pageRef: /music
-        weight: 20
-      - name: Cotact
-        pageRef: /contact
-        weight: 30
-      - name: About
-        pageRef: /about
-        weight: 40
-    params:
-      subtitle: Reference, Tutorials, and Explanations
-    title: Project Documentation
     weight: 2
 
 ############################
