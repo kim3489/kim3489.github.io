@@ -2,15 +2,14 @@
 # Display name
 title: 김찬우
 
+first_name: Chanwoo
+last_name: Kim
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: 2학년
-
-# Status emoji
-status:
-  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
@@ -44,13 +43,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'kcw5608@jbnu.ac.kr' # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
     link: https://github.com/kim3489
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+  - icon: cv
+    icon_pack: ai
+    link: 
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -65,9 +65,3 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kcw5608@jbnu.ac.kr"
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
