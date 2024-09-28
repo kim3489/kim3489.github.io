@@ -65,3 +65,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kcw5608@jbnu.ac.kr"
 ---
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
