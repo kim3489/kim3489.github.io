@@ -43,6 +43,18 @@ sections:
       loop: true
       interval: 3000
 
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">My Interests</span>
+      items:
+        - name: Back-end
+          icon: laptop
+          icon_pack: fas
+        - name: DB
+          icon: database
+          icon_pack: fas
+
   - block: collection
     content:
       id: section-1
