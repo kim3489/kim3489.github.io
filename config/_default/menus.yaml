@@ -12,7 +12,7 @@ main:
     weight: 100
 
   - name: Interest
-    url: interest
+    url: football
     weight: 200
   - parent: Interest
     name: football
@@ -24,7 +24,7 @@ main:
     weight: 220
 
   - name: Music
-    url: music
+    url: rock
     weight: 200
   - parent: Music
     name: Rock
@@ -36,15 +36,26 @@ main:
     weight: 220
 
   - name: Contact
-    url: contact
+    url: contactinformation
     weight: 200
   - parent: Contact
-    name: phone
-    url: phone
+    name: contact information
+    url: contactinformation
     weight: 210
   - parent: Contact
     name: map
     url: map
     weight: 220
 
+  - name: Development
+    url: backend
+    weight: 200
+  - parent: Development
+    name: back-end
+    url: backend
+    weight: 210
+  - parent: Development
+    name: DB
+    url: db
+    weight: 220
     
