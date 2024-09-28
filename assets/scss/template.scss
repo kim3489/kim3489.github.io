@@ -115,3 +115,17 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+.btn{
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn:hover{
+  background-color: #2962ff; 
+  color: #ffffff; 
+}
+
+.dark .btn:hover {
+  background-color: #64b5f6; 
+  color: #000000;
+}
