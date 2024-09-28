@@ -89,4 +89,21 @@ sections:
       view: community/custom_card
       columns: '2'
   
+  - block: collection
+    content:
+      id: section-3
+      title: project
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - project1
+          - project2
+          - project3
+    design:
+      view: community/custom_card
+      columns: '3'
 ---
