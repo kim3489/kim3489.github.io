@@ -49,7 +49,7 @@ social:
     link: https://github.com/kim3489
   - icon: cv
     icon_pack: ai
-    link: 
+    link: about.pdf
 
 # Uncomment below for Github link
 #- icon: github
