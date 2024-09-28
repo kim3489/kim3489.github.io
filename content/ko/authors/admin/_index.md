@@ -49,7 +49,7 @@ social:
     link: https://github.com/kim3489
   - icon: cv
     icon_pack: ai
-    link: uploads/about.pdf
+    link: /uploads/about.pdf
 
 # Uncomment below for Github link
 #- icon: github
@@ -65,4 +65,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kcw5608@jbnu.ac.kr"
 ---
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "/uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
