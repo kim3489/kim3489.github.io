@@ -20,7 +20,16 @@ marketing:
     local_business_type: ''
     org_name: '전북대학교'
     description: '김찬우'
+    keyword: '김찬우'
+
+  seo:
+    site_type: Person
+    local_business_type: ''
+    person_name: '김찬우'
+    description: '전북대학교'
+    keyword: '전북대학교'
     
+
   analytics:
     google_analytics: ''
     baidu_tongji: ''
