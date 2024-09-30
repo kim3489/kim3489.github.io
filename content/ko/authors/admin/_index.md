@@ -2,8 +2,8 @@
 # Display name
 title: 김찬우
 
-first_name: Chanwoo
-last_name: Kim
+first_name: 찬우
+last_name: 김
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,8 +13,8 @@ role: 2학년
 
 # Organizations/Affiliations
 organizations:
- - name: 전북대학교 컴퓨터인공지능학부
-#  url: ""
+ - name: 전북대학교
+  url: "https://csai.jbnu.ac.kr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
