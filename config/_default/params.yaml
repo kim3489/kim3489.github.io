@@ -10,17 +10,16 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  color: skyblue
   theme_color: "#F7F2E0"
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: '전북대학교'
-    description: '김찬우 - 전북대학교'
+    description: '김찬우'
     
   analytics:
     google_analytics: ''
