@@ -11,42 +11,6 @@ main:
     url: about/
     weight: 100
 
-  - name: Interest
-    url: football
-    weight: 200
-  - parent: Interest
-    name: football
-    url: football
-    weight: 210
-  - parent: Interest
-    name: baseball
-    url: baseball
-    weight: 220
-
-  - name: Music
-    url: rock
-    weight: 200
-  - parent: Music
-    name: Rock
-    url: rock
-    weight: 210
-  - parent: Music
-    name: Hip Hop
-    url: hiphop
-    weight: 220
-
-  - name: Contact
-    url: contactinformation
-    weight: 200
-  - parent: Contact
-    name: contact information
-    url: contactinformation
-    weight: 210
-  - parent: Contact
-    name: map
-    url: map
-    weight: 220
-
   - name: Development
     url: backend
     weight: 200
@@ -58,4 +22,55 @@ main:
     name: DB
     url: db
     weight: 220
-    
+
+  - name: Interest
+    url: football
+    weight: 300
+  - parent: Interest
+    name: football
+    url: football
+    weight: 310
+  - parent: Interest
+    name: baseball
+    url: baseball
+    weight: 320
+
+  - name: Music
+    url: rock
+    weight: 400
+  - parent: Music
+    name: Rock
+    url: rock
+    weight: 410
+  - parent: Music
+    name: Hip Hop
+    url: hiphop
+    weight: 420
+
+  - name: Project
+    url: project1
+    weight: 500
+  - parent: Project
+    name: project1
+    url: project1
+    weight: 510
+  - parent: Project
+    name: project2
+    url: project2
+    weight: 520
+  - parent: Project
+    name: project3
+    url: project3
+    weight: 530
+
+  - name: Contact
+    url: contactinformation
+    weight: 600
+  - parent: Contact
+    name: contact information
+    url: contactinformation
+    weight: 610
+  - parent: Contact
+    name: map
+    url: map
+    weight: 620
