@@ -75,9 +75,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: '전북대학교'
-    description: '김찬우 - 전북대학교'
