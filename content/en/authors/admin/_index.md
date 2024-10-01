@@ -1,21 +1,20 @@
 ---
 # Display name
-title: 김찬우
+title: Chanwoo Kim
+
+first_name: Chanwoo
+last_name: Kim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 2학년
-
-# Status emoji
-status:
-  icon: ☕️
+role: sophomore
 
 # Organizations/Affiliations
 organizations:
- - name: 전북대학교 컴퓨터인공지능학부
-#  url: ""
+  - name: JeonBuk University
+    url: 'https://csai.jbnu.ac.kr'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,17 +43,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'kcw5608@jbnu.ac.kr' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://github.com/kim3489
+  - icon: cv
+    icon_pack: ai
+    link: /uploads/about.pdf
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,10 +60,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kcw5608@jbnu.ac.kr"
+
+user_groups:
+  - admin
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+I am sophomore Computer Science student at Jeonbuk University
+{{< icon name="download" pack="fas" >}} {{< staticref "/uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
