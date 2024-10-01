@@ -51,10 +51,6 @@ social:
     icon_pack: ai
     link: /uploads/about.pdf
 
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,6 +60,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kcw5608@jbnu.ac.kr"
+
+user_groups:
+  - admin
 ---
 전북대학교 컴퓨터인공지능학부 2학년 김찬우입니다.
 {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
