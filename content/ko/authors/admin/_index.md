@@ -65,5 +65,5 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kcw5608@jbnu.ac.kr"
 ---
-전북대 컴퓨터인공지능학부 2학년 김찬우입니다.
+전북대학교 컴퓨터인공지능학부 2학년 김찬우입니다.
 {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
