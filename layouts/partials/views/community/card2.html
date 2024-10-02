@@ -47,7 +47,7 @@
     {{ $image := .Fill (printf "808x455 %s" $anchor) }}
     {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
-      <div class="img-hover-zoom">
+      <div class="img-hover-zoom img-thumbnail">
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
             class="img-fluid article-banner" alt="{{ $item.Title }}" loading="lazy">
       </div>
@@ -55,7 +55,7 @@
   {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify}}</a>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
   </div>
 
   {{ with $summary }}

@@ -64,13 +64,6 @@ main:
     weight: 530
 
   - name: Contact
-    url: contactinformation
+    url: contact
     weight: 600
-  - parent: Contact
-    name: contact information
-    url: contactinformation
-    weight: 610
-  - parent: Contact
-    name: map
-    url: map
-    weight: 620
+
