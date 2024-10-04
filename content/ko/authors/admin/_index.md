@@ -20,6 +20,10 @@ interests:
   - 백엔드 개발
   - DB 개발
 
+education:
+  - area: 전북대학교 재학
+    institution: 전북대학교
+
 
 social:
   - icon: envelope
