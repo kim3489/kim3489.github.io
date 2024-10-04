@@ -7,7 +7,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">Kcw Web </span>
-      text: <br><span style="font-size:125%">전북대학교 컴퓨터인공지능학부 2학년 김찬우의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
+      text: <br><span style="font-size:125%">Welcome to the website of Kim Chan-woo, a sophomore computer artificial intelligence student at Jeonbuk University.</span> <br><br>
 
   - block: features
     id: features
@@ -34,8 +34,8 @@ sections:
     content:
       slides:
 
-      - title: <span style="font-size:70%">프론트엔드 개발자</span>
-        content: <span style="font-size:70%"> 백엔드 API에서 가져온 비즈니스 로직 구성과 UI를 작업하는 개발자 </span>
+      - title: <span style="font-size:70%">front-end developer</span>
+        content: <span style="font-size:70%"> Developers working on business logic configurations and UIs imported from the backend API </span>
         align: center
         background:
           image:
@@ -45,8 +45,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">백엔드 개발자</span>
-        content: <span style="font-size:70%">사용자의 행동을 처리하고 정보를 저장,관리하는 개발자<span style="font-size:70%">
+      - title: <span style="font-size:70%">back-end developer</span>
+        content: <span style="font-size:70%">Developers who process and store and manage user behavior<span style="font-size:70%">
         align: center
         background:
           image:
@@ -56,8 +56,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">모바일 개발자</span>
-        content: <span style="font-size:70%">스마트폰 어플리케이션 개발<span style="font-size:70%">
+      - title: <span style="font-size:70%">mobile developer</span>
+        content: <span style="font-size:70%">Development of smartphone applications<span style="font-size:70%">
         align: center
         background:
           image:
@@ -79,13 +79,13 @@ sections:
     content:
       title: <span style="font-size:75%">My hobby</span>
       items:
-        - name: 음악 듣기
+        - name: Listening to music
           icon: music
           icon_pack: fas
-        - name: 영화 시청
+        - name: watching movies
           icon: firm
           icon_pack: fas
-        - name: 여행
+        - name: traveling
           icon: map
           icon_pack: fas
 
