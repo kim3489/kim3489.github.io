@@ -1,19 +1,19 @@
 ---
 # Display name
-title: 김찬우
+title: ChanWoo Kim
 
-first_name: 찬우
-last_name: 김
+first_name: Chanwoo
+last_name: Kim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 2학년
+role: sophomore
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교 컴퓨터인공지능학부
+  - name: Jeonbuk university Department of Computer and Artificial Intelligence
     url: 'https://csai.jbnu.ac.kr'
 
 interests:
