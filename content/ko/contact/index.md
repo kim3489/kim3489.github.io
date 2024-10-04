@@ -24,5 +24,7 @@ sections:
 
       autolink: true    
 
-featured_image: "featured.jpg"
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'stadium.jpg'
 ---
