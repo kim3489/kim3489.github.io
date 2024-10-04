@@ -19,7 +19,7 @@ sections:
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: frontend.jpg
             filters:
               brightness: 0.4
           position: center
@@ -30,7 +30,7 @@ sections:
         align: center
         background:
           image:
-            filename: football.jpg
+            filename: backend.jpg
             filters:
               brightness: 0.4
           position: center
