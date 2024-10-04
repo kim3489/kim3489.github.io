@@ -48,11 +48,11 @@ main:
     weight: 420
 
   - name: Project
-    url: javaproject
+    url: gameproject
     weight: 500
   - parent: Project
-    name: java project
-    url: javaproject
+    name: game project
+    url: gameproject
     weight: 510
   - parent: Project
     name: map project
