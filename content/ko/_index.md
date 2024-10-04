@@ -24,6 +24,7 @@ sections:
           icon: database
           icon_pack: fas
 
+
   - block: features
     content:
       title: <span style="font-size:70%">My goals </span>
@@ -72,6 +73,24 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 3000
+
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">My hobby</span>
+      items:
+        - name: 음악 듣기
+          icon: music
+          icon_pack: fas
+        - name: 영화 시청
+          icon: firm
+          icon_pack: fas
+        - name: 여행
+          icon: map
+          icon_pack: fas
+
+
+
 
   - block: collection
     content:

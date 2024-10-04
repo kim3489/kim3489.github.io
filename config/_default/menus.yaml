@@ -11,17 +11,27 @@ main:
     url: about/
     weight: 100
 
-  - name: Development
-    url: backend
+  - name: Skill
+    url: skill
     weight: 200
-  - parent: Development
-    name: back-end
-    url: backend
-    weight: 210
-  - parent: Development
-    name: DB
-    url: db
-    weight: 220
+
+
+  - name: Project
+    url: gameproject
+    weight: 300
+  - parent: Project
+    name: game project
+    url: gameproject
+    weight: 310
+  - parent: Project
+    name: map project
+    url: mapproject
+    weight: 320
+  - parent: Project
+    name: mall project
+    url: mallproject
+    weight: 330
+
 
   - name: Interest
     url: football
@@ -47,21 +57,6 @@ main:
     url: hiphop
     weight: 420
 
-  - name: Project
-    url: gameproject
-    weight: 500
-  - parent: Project
-    name: game project
-    url: gameproject
-    weight: 510
-  - parent: Project
-    name: map project
-    url: mapproject
-    weight: 520
-  - parent: Project
-    name: mall project
-    url: mallproject
-    weight: 530
 
   - name: Contact
     url: contact
