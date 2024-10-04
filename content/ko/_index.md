@@ -124,4 +124,6 @@ sections:
     design:
       view: community/custom_card
       columns: '3'
+
+keywords: ["전북대 김찬우"]
 ---
