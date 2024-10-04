@@ -33,9 +33,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/kim3489
-  - icon: cv
-    icon_pack: ai
-    link: /uploads/about.pdf
+
 
 
 # Link to a PDF of your resume/CV from the About widget.

@@ -14,34 +14,42 @@ sections:
     content:
       title: <span style="font-size:75%">My Interests</span>
       items:
+        - name: Front-end
+          icon: site
+          icon_pack: fas
         - name: Back-end
           icon: laptop
           icon_pack: fas
         - name: DB
           icon: database
           icon_pack: fas
+
+  - block: features
+    content:
+      title: <span style="font-size:70%">My goals </span>
+
         
   - block: slider
     content:
       slides:
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Back-end 개발, DB개발 </span>
+      - title: <span style="font-size:70%">프론트엔드 개발자</span>
+        content: <span style="font-size:70%"> 백엔드 API에서 가져온 비즈니스 로직 구성과 UI를 작업하는 개발자 </span>
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: frontend.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Interest</span>
-        content: <span style="font-size:70%">football, baseball <span style="font-size:70%">
+      - title: <span style="font-size:70%">백엔드 개발자</span>
+        content: <span style="font-size:70%">사용자의 행동을 처리하고 정보를 저장,관리하는 개발자<span style="font-size:70%">
         align: center
         background:
           image:
-            filename: football.jpg
+            filename: backend.jpg
             filters:
               brightness: 0.4
           position: center
