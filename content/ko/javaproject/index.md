@@ -2,7 +2,7 @@
 title: 자바 게임 프로젝트
 
 # Listing view
-view: community/custom_card
+view: community/card
 
 
 ---
