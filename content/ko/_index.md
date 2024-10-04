@@ -55,6 +55,17 @@ sections:
           position: center
           color: '#000'
 
+      - title: <span style="font-size:70%">모바일 개발자</span>
+        content: <span style="font-size:70%">스마트폰 어플리케이션 개발<span style="font-size:70%">
+        align: center
+        background:
+          image:
+            filename: mobile.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
     design:
       slide_height: '350px'
       slide_width: '100px'
