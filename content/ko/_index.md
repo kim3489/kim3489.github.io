@@ -5,7 +5,7 @@ type: landing
 
 sections:
 
-  - block: resume
+  - block: resume-biography
     content:
       username: admin
       text: ""
