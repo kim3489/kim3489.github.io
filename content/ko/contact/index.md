@@ -23,4 +23,8 @@ sections:
       directions: 
 
       autolink: true    
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'stadium.jpg'
 ---
