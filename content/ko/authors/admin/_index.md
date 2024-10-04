@@ -21,7 +21,8 @@ interests:
   - DB 개발
 
 education:
-  - area: 전북대학교 재학
+  courses:
+  - course: 전북대학교 재학중
     institution: 전북대학교
 
 
