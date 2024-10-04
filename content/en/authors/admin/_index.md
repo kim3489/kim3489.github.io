@@ -17,13 +17,13 @@ organizations:
     url: 'https://csai.jbnu.ac.kr'
 
 interests:
-  - 백엔드 개발
-  - DB 개발
+  - back-end development
+  - DB Development
 
 education:
   courses:
-  - course: 전북대학교 재학중
-    institution: 전북대학교
+  - course: Currently attending Jeonbuk University
+    institution: Jeonbuk University
 
 
 social:
@@ -48,5 +48,5 @@ email: "kcw5608@jbnu.ac.kr"
 user_groups:
   - admin
 ---
-전북대학교 컴퓨터인공지능학부 2학년 김찬우입니다.
+I'm Kim Chan-woo, a sophomore computer artificial intelligence student at Jeonbuk University.
 {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
