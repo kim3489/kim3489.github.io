@@ -1,5 +1,5 @@
 ---
-title: map
+title: Contact
 date: 2022-10-24
 
 type: landing
@@ -7,7 +7,9 @@ type: landing
 sections:
   - block: contact
     content:
-      title: map
+      title: Contact
+      email: kcw5608@jbnu.ac.kr
+      phone: 010-4190-5608
       address:
         street: 전북대학교 공과대학 7호관 
         city: 전주시
@@ -20,8 +22,9 @@ sections:
         longitude: '127.13444961966684'
       directions: 
 
-      autolink: true
-    
-    design:
-      columns: '3'
+      autolink: true    
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'stadium.jpg'
 ---

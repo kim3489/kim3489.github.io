@@ -4,18 +4,38 @@ title:
 type: landing
 
 sections:
-
   - block: features
     content:
       title: <span style="font-size:70%">Kcw Web </span>
       text: <br><span style="font-size:125%">전북대학교 컴퓨터인공지능학부 2학년 김찬우의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
+
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">My Interests</span>
+      items:
+        - name: Front-end
+          icon: sitemap
+          icon_pack: fas
+        - name: Back-end
+          icon: laptop
+          icon_pack: fas
+        - name: DB
+          icon: database
+          icon_pack: fas
+
+
+  - block: features
+    content:
+      title: <span style="font-size:70%">My goals </span>
+
         
   - block: slider
     content:
       slides:
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Back-end 개발, DB개발 </span>
+      - title: <span style="font-size:70%">프론트엔드 개발자</span>
+        content: <span style="font-size:70%"> 백엔드 API에서 가져온 비즈니스 로직 구성과 UI를 작업하는 개발자 </span>
         align: center
         background:
           image:
@@ -25,12 +45,23 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Interest</span>
-        content: <span style="font-size:70%">football, baseball <span style="font-size:70%">
+      - title: <span style="font-size:70%">백엔드 개발자</span>
+        content: <span style="font-size:70%">사용자의 행동을 처리하고 정보를 저장,관리하는 개발자<span style="font-size:70%">
         align: center
         background:
           image:
             filename: backend.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">모바일 개발자</span>
+        content: <span style="font-size:70%">스마트폰 어플리케이션 개발<span style="font-size:70%">
+        align: center
+        background:
+          image:
+            filename: mobile.jpg
             filters:
               brightness: 0.4
           position: center
@@ -46,14 +77,20 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">My Interests</span>
+      title: <span style="font-size:75%">My hobby</span>
       items:
-        - name: Back-end
-          icon: laptop
+        - name: 음악 듣기
+          icon: music
           icon_pack: fas
-        - name: DB
-          icon: database
+        - name: 영화 시청
+          icon: firm
           icon_pack: fas
+        - name: 여행
+          icon: map
+          icon_pack: fas
+
+
+
 
   - block: collection
     content:
@@ -106,4 +143,6 @@ sections:
     design:
       view: community/custom_card
       columns: '3'
+
+keywords: ["전북대 김찬우"]
 ---

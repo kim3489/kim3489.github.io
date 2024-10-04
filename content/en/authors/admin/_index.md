@@ -1,45 +1,31 @@
 ---
 # Display name
-title: Chanwoo Kim
+title: 김찬우
 
-first_name: Chanwoo
-last_name: Kim
+first_name: 찬우
+last_name: 김
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: sophomore
+role: 2학년
 
 # Organizations/Affiliations
 organizations:
-  - name: JeonBuk University
+  - name: 전북대학교 컴퓨터인공지능학부
     url: 'https://csai.jbnu.ac.kr'
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+interests:
+  - 백엔드 개발
+  - DB 개발
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+education:
+  courses:
+  - course: 전북대학교 재학중
+    institution: 전북대학교
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,9 +33,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/kim3489
-  - icon: cv
-    icon_pack: ai
-    link: /uploads/about.pdf
+
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -64,5 +48,5 @@ email: "kcw5608@jbnu.ac.kr"
 user_groups:
   - admin
 ---
-I am sophomore Computer Science student at Jeonbuk University
+전북대학교 컴퓨터인공지능학부 2학년 김찬우입니다.
 {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/about.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

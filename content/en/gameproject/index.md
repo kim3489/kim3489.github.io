@@ -1,0 +1,9 @@
+---
+title: 게임 프로젝트
+
+view: community/custom_card
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'stadium.jpg'
+---
