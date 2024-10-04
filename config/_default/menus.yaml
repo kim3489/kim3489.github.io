@@ -48,19 +48,19 @@ main:
     weight: 420
 
   - name: Project
-    url: project1
+    url: project/project1
     weight: 500
   - parent: Project
     name: project1
-    url: project1
+    url: project/project1
     weight: 510
   - parent: Project
     name: project2
-    url: project2
+    url: project/project2
     weight: 520
   - parent: Project
     name: project3
-    url: project3
+    url: project/project3
     weight: 530
 
   - name: Contact
