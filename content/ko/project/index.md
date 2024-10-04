@@ -6,6 +6,6 @@ view: community/card
 
 # Optional header image (relative to `static/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'project.jpg'
 ---
