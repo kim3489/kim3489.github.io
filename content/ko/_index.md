@@ -3,17 +3,10 @@
 title:
 type: landing
 
-sections:
-  - block: resume-biography-3
+- block: features
     content:
-      username: admin
-      text: ""
-
-    design:
-      css_class: dark
-      background:
-        color: skyblue
-
+      title: <span style="font-size:70%">Kcw Web </span>
+      text: <br><span style="font-size:125%">전북대학교 컴퓨터인공지능학부 2학년 김찬우의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
         
   - block: slider
     content:
