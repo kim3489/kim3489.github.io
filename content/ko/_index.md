@@ -15,7 +15,7 @@ sections:
       title: <span style="font-size:75%">My Interests</span>
       items:
         - name: Front-end
-          icon: site
+          icon: sitemap
           icon_pack: fas
         - name: Back-end
           icon: laptop
