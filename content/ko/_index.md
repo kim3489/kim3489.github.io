@@ -83,7 +83,7 @@ sections:
           icon: music
           icon_pack: fas
         - name: 영화 시청
-          icon: firm
+          icon: video
           icon_pack: fas
         - name: 여행
           icon: map
