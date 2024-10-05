@@ -1,11 +1,9 @@
 ---
-title: Project
+title: 벡엔드 프로젝트
 
-# View.
-view: community/custom_card
+view: community/card
 
-# Optional header image (relative to `static/media/` folder).
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'project.jpg'
+  image: 'stadium.jpg'
 ---

@@ -2,7 +2,7 @@
 title: 쇼핑몰
 
 # Listing view
-view: 
+view: community/card2
 
 tags:
   - 쇼핑몰
