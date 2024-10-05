@@ -1,8 +1,6 @@
 ---
 title: Shopping mall
 
-# Listing view
-view: community/custom_card
 
 tags:
   - mall

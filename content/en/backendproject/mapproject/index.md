@@ -1,10 +1,6 @@
 ---
 title: Restaurant service
 
-# Listing view
-view: community/custom_card
-
-external_link: https://github.com/kim3489/java-game-project
 
 tags:
   - map

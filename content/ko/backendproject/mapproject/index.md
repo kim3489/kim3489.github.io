@@ -1,10 +1,6 @@
 ---
 title: 맛집 서비스
 
-# Listing view
-view: community/custom_card
-
-
 tags:
   - 지도
   - 맛집

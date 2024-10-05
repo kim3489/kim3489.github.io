@@ -1,6 +1,6 @@
 ---
 title: skills
 
-view: community/card
+view: community/card2
 
 ---
