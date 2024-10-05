@@ -10,7 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  theme_color: "#F7F2E0"
+  color: "00FFFF"
 
 # SEO
 
