@@ -95,7 +95,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: interest
+      title: skill
       subtitle:
       text:
       count: 3
@@ -103,11 +103,10 @@ sections:
       order: desc
       filters:
         folders:
-          - football
-          - baseball
+          - skill
     design:
-      view: community/custom_card
-      columns: '2'
+      view: community/showcase
+      columns: '3'
 
   - block: collection
     content:
@@ -124,7 +123,7 @@ sections:
           - backendproject
     design:
       view: community/card
-      columns: '2'
+      columns: '3'
     advanced:
       css_style: "text-align: center;"
   
