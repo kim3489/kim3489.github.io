@@ -1,5 +1,5 @@
 ---
-title:  교육
+title: education
 
 view: article-grid
 
