@@ -123,7 +123,7 @@ sections:
           - gameproject
           - backendproject
     design:
-      view: community/custom_card
+      view: community/card
       columns: '2'
   
   - block: collection

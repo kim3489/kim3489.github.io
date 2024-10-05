@@ -1,7 +1,7 @@
 ---
 title: 게임 프로젝트
 
-view: community/custom_card
+view: community/card
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
