@@ -121,7 +121,7 @@ sections:
       filters:
         folders:
           - gameproject
-          - backendproject
+          - mallproject
     design:
       view: community/card
       columns: '2'
