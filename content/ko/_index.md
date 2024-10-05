@@ -93,7 +93,7 @@ sections:
   - block: collection
     content:
       id: section-2
-      title: project
+      title: <span style="font-size:70%">project</span>
       subtitle:
       text:
       count: 3
@@ -113,7 +113,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: skill
+      title: <span style="font-size:70%">skill</span>
       subtitle:
       text:
       count: 3
@@ -132,7 +132,7 @@ sections:
   - block: collection
     content:
       id: section-3
-      title: teaching
+      title: <span style="font-size:70%">teaching</span>
       subtitle:
       text:
       count: 3
