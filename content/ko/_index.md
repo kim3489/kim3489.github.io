@@ -112,7 +112,7 @@ sections:
   - block: collection
     content:
       id: section-2
-      title: music
+      title: project
       subtitle:
       text:
       count: 3
@@ -120,8 +120,8 @@ sections:
       order: desc
       filters:
         folders:
-          - rock
-          - hiphop
+          - gameproject
+          - backendproject
     design:
       view: community/custom_card
       columns: '2'
@@ -129,7 +129,7 @@ sections:
   - block: collection
     content:
       id: section-3
-      title: project
+      title: pj
       subtitle:
       text:
       count: 3

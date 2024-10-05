@@ -20,6 +20,8 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+
 <div class="card-simple view-card">
 
   {{ if eq $item.Type "event" }}
