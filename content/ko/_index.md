@@ -90,6 +90,24 @@ sections:
           icon_pack: fas
 
 
+  - block: collection
+    content:
+      id: section-2
+      title: project
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - gameproject
+          - backendproject
+    design:
+      view: community/card2
+      columns: '3'
+    advanced:
+      css_style: "text-align: center;"
 
 
   - block: collection
@@ -105,28 +123,12 @@ sections:
         folders:
           - skill
     design:
-      view: community/card2
-      columns: '3'
-
-  - block: collection
-    content:
-      id: section-2
-      title: project
-      subtitle:
-      text:
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - gameproject
-          - backendproject
-    design:
       view: community/card
       columns: '3'
     advanced:
       css_style: "text-align: center;"
-  
+
+
   - block: collection
     content:
       id: section-3
@@ -142,6 +144,8 @@ sections:
     design:
       view: article-grid
       columns: '3'
+    advanced:
+      css_style: "text-align: center;"
 
 keywords: ["전북대 김찬우"]
 ---
