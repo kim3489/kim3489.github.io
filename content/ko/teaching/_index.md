@@ -1,7 +1,7 @@
 ---
-title: 벡엔드 프로젝트
+title:  교육
 
-view: community/card
+view: article-grid
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
