@@ -105,7 +105,7 @@ sections:
         folders:
           - skill
     design:
-      view: community/card
+      view: community/card2
       columns: '3'
 
   - block: collection

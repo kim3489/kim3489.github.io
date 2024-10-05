@@ -1,6 +1,6 @@
 ---
 title: 스킬
 
-view: community/card
+view: community/card2
 
 ---
