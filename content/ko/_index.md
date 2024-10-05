@@ -131,7 +131,7 @@ sections:
   - block: collection
     content:
       id: section-3
-      title: project
+      title: teaching
       subtitle:
       text:
       count: 3
