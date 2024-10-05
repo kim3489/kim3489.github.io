@@ -2,4 +2,4 @@
 title: Spring
 
 ---
-자바 기반의 백엔드 개발을 위한 프레임워크로 빠르고 간편한 설정을 통해 마이크로 서비스와 대규모 애플리케이션 개발에 적합합니다. POJO방식, 관점 지향 프로그래밍, 의존성 주입, 제어 역전, Bean 생명주기 관리 등의 특징이 있습니다.
+It is suitable for Microsoft service development developing Microsoft and easy settings for Microsoft backup-end development.There are characteristics such as POJO method, perspective-oriented programming, control reverse cycle management, control reverse cycle management.
