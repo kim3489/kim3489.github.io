@@ -1,5 +1,5 @@
 ---
 title: React
-type: landing
+
 ---
-동적인 UI를 생성하는 라이브러리로 유연성이 높아 다양한 도구와 조합이 가능합니다. 리렌더링이 잦은 동적인 모던 웹에서 매우 빠른 퍼포먼스를 내는게 가능합니다. React Hooks라는 강력한 메소드를 지원하면서 웹 프런트엔드 개발의 표준으로 자리잡았습니다.
+It is a library that creates dynamic UIs and is flexible and can be combined with many tools. It is possible to achieve very fast performance on a dynamic modern web that is frequently re-rendered. It has become a standard for web front-end development by supporting a powerful method called React Hooks.
