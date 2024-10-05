@@ -1,5 +1,5 @@
 ---
-title: 스킬
+title: skills
 
 view: community/card
 
