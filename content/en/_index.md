@@ -140,7 +140,7 @@ sections:
         folders:
           - teaching
     design:
-      view: community/article-grid
+      view: article-grid
       columns: '3'
 
 keywords: ["전북대 김찬우"]
