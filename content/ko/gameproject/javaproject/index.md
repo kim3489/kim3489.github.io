@@ -4,6 +4,8 @@ tags:
   - 자바
   - 게임  
 
+advanced:
+    css_style: "text-align: center;"
 ---
 
 # 프로젝트 설명
