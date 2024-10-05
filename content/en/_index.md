@@ -95,7 +95,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: interest
+      title: skill
       subtitle:
       text:
       count: 3
@@ -103,32 +103,14 @@ sections:
       order: desc
       filters:
         folders:
-          - football
-          - baseball
+          - skill
     design:
-      view: community/custom_card
-      columns: '2'
+      view: community/card
+      columns: '3'
 
   - block: collection
     content:
       id: section-2
-      title: music
-      subtitle:
-      text:
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - rock
-          - hiphop
-    design:
-      view: community/custom_card
-      columns: '2'
-  
-  - block: collection
-    content:
-      id: section-3
       title: project
       subtitle:
       text:
@@ -137,11 +119,28 @@ sections:
       order: desc
       filters:
         folders:
-          - project1
-          - project2
-          - project3
+          - gameproject
+          - backendproject
     design:
-      view: community/custom_card
+      view: community/card
+      columns: '3'
+    advanced:
+      css_style: "text-align: center;"
+  
+  - block: collection
+    content:
+      id: section-3
+      title: teaching
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - teaching
+    design:
+      view: article-grid
       columns: '3'
 
 keywords: ["전북대 김찬우"]
