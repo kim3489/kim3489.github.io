@@ -41,17 +41,10 @@ main:
     url: baseball
     weight: 320
 
-  - name: Music
-    url: rock
+  - name: Teaching
+    url: teaching
     weight: 400
-  - parent: Music
-    name: Rock
-    url: rock
-    weight: 410
-  - parent: Music
-    name: Hip Hop
-    url: hiphop
-    weight: 420
+
 
 
   - name: Contact
