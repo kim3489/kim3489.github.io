@@ -83,7 +83,7 @@ sections:
           icon: music
           icon_pack: fas
         - name: watching movies
-          icon: firm
+          icon: video
           icon_pack: fas
         - name: traveling
           icon: map
