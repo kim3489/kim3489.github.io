@@ -131,7 +131,7 @@ sections:
   - block: collection
     content:
       id: section-3
-      title: pj
+      title: project
       subtitle:
       text:
       count: 3
@@ -139,11 +139,9 @@ sections:
       order: desc
       filters:
         folders:
-          - project1
-          - project2
-          - project3
+          - teaching
     design:
-      view: community/custom_card
+      view: article-grid
       columns: '3'
 
 keywords: ["전북대 김찬우"]
