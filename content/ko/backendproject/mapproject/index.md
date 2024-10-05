@@ -4,7 +4,6 @@ title: 맛집 서비스
 # Listing view
 view: community/custom_card
 
-external_link: https://github.com/kim3489/java-game-project
 
 tags:
   - 지도
