@@ -23,7 +23,7 @@
 <div class="card-simple view-card">
 
   {{ if eq $item.Type "event" }}
-  <div class="article-metadata">
+  <div class="article-metadata" style="text-align: justify; text-justify: auto;">
     {{ if $item.Params.authors }}
     <div>
       {{ partial "page_metadata_authors" $item }}
@@ -54,7 +54,7 @@
     </a>
   {{end}}
 
-  <div class="section-subheading article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3" style="text-align: justify; text-justify: auto;">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
   </div>
 
