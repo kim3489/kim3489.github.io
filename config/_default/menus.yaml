@@ -29,17 +29,6 @@ main:
     weight: 320
 
 
-  - name: Interest
-    url: football
-    weight: 300
-  - parent: Interest
-    name: football
-    url: football
-    weight: 310
-  - parent: Interest
-    name: baseball
-    url: baseball
-    weight: 320
 
   - name: Teaching
     url: teaching
