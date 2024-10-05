@@ -1,9 +1,9 @@
 ---
-title: game project
+title:  교육
 
-view: community/custom_card
+view: article-grid
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'project.jpg'
+  image: 'teaching.jpg'
 ---

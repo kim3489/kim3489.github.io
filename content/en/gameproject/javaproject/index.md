@@ -4,6 +4,8 @@ tags:
   - java
   - game  
 
+advanced:
+    css_style: "text-align: center;"
 ---
 
 # Project Description

@@ -1,9 +1,9 @@
 ---
-title: game project
+title: Back-end project
 
-view: community/custom_card
+view: community/card
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'project.jpg'
+  image: 'project2.jpg'
 ---
