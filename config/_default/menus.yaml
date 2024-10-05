@@ -24,13 +24,9 @@ main:
     url: gameproject
     weight: 310
   - parent: Project
-    name: map project
-    url: mapproject
+    name: backend project
+    url: backendproject
     weight: 320
-  - parent: Project
-    name: mall project
-    url: mallproject
-    weight: 330
 
 
   - name: Interest
