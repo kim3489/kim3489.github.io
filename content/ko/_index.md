@@ -121,10 +121,12 @@ sections:
       filters:
         folders:
           - gameproject
-          - mallproject
+          - backendproject
     design:
       view: community/card
       columns: '2'
+    advanced:
+      css_style: "text-align: center;"
   
   - block: collection
     content:
