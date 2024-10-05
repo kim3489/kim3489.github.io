@@ -1,7 +1,7 @@
 ---
 title: education
 
-view: article-grid
+view: community/article-grid
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'

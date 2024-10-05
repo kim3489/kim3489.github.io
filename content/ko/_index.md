@@ -142,7 +142,7 @@ sections:
         folders:
           - teaching
     design:
-      view: article-grid
+      view: community/article-grid
       columns: '3'
     advanced:
       css_style: "text-align: center;"

@@ -1,7 +1,7 @@
 ---
 title:  교육
 
-view: article-grid
+view: community/article-grid
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
