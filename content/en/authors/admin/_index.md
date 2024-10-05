@@ -18,7 +18,7 @@ organizations:
 
 interests:
   - back-end development
-  - DB Development
+  - front-end development
 
 education:
   courses:
