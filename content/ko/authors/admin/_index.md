@@ -18,7 +18,7 @@ organizations:
 
 interests:
   - 백엔드 개발
-  - DB 개발
+  - 프론트엔드 개발
 
 education:
   courses:
