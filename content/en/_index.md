@@ -92,10 +92,32 @@ sections:
 
 
 
+  - block: features
+    content:
+      title: <span style="font-size:70%">Project </span>
+
+  - block: collection
+    content:
+      id: section-2
+      title: 
+      filters:
+        folders:
+          - gameproject
+          - backendproject
+    design:
+      view: community/card
+      columns: '3'
+    advanced:
+      css_style: "text-align: center;"
+
+  - block: features
+    content:
+      title: <span style="font-size:70%">Skill </span>
+
   - block: collection
     content:
       id: section-1
-      title: <span style="font-size:70%">skill</span>
+      title: 
       subtitle:
       text:
       count: 3
@@ -105,32 +127,19 @@ sections:
         folders:
           - skill
     design:
-      view: community/card
-      columns: '3'
-
-  - block: collection
-    content:
-      id: section-2
-      title: <span style="font-size:70%">project</span>
-      subtitle:
-      text:
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - gameproject
-          - backendproject
-    design:
       view: single
       columns: '3'
     advanced:
       css_style: "text-align: center;"
-  
+
+  - block: features
+    content:
+      title: <span style="font-size:70%">Teaching </span>
+
   - block: collection
     content:
       id: section-3
-      title: <span style="font-size:70%">teaching</span>
+      title: 
       subtitle:
       text:
       count: 3
@@ -142,6 +151,8 @@ sections:
     design:
       view: article-grid
       columns: '3'
+    advanced:
+      css_style: "text-align: center;"
 
 keywords: ["전북대 김찬우"]
 ---
