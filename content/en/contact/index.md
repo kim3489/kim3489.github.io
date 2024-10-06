@@ -11,11 +11,11 @@ sections:
       email: kcw5608@jbnu.ac.kr
       phone: 010-4190-5608
       address:
-        street: 전북대학교 공과대학 7호관 
-        city: 전주시
-        region: 전라북도
+        street: Building 7, engineering college, Jeonbuk University
+        city: Jeonju City
+        region: Jeonlabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: Republic of Korea
         country_code: KO
       coordinates:
         latitude: '35.84601324617979'
