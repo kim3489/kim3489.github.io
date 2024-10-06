@@ -94,11 +94,6 @@ sections:
     content:
       id: section-2
       title: <span style="font-size:70%">project</span>
-      subtitle:
-      text:
-      count: 3
-      offset: 0
-      order: desc
       filters:
         folders:
           - gameproject
