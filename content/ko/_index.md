@@ -104,7 +104,7 @@ sections:
           - gameproject
           - backendproject
     design:
-      view: date-title-summary
+      view: community/card
       columns: '3'
     advanced:
       css_style: "text-align: center;"
@@ -123,7 +123,7 @@ sections:
         folders:
           - skill
     design:
-      view: community/card2
+      view: single
       columns: '3'
     advanced:
       css_style: "text-align: center;"
