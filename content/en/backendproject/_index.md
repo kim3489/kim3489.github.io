@@ -1,7 +1,7 @@
 ---
 title: Back-end project
 
-view: community/card
+view: community/card2
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
