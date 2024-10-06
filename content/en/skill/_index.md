@@ -1,6 +1,6 @@
 ---
 title: skills
 
-view: single
+view: list
 
 ---

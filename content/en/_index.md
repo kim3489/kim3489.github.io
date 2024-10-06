@@ -127,7 +127,7 @@ sections:
         folders:
           - skill
     design:
-      view: single
+      view: list
       columns: '3'
     advanced:
       css_style: "text-align: center;"
