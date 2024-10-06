@@ -89,11 +89,14 @@ sections:
           icon: map
           icon_pack: fas
 
+  - block: features
+    content:
+      title: <span style="font-size:70%">Project </span>
 
   - block: collection
     content:
       id: section-2
-      title: <span style="font-size:70%">project</span>
+      title: 
       filters:
         folders:
           - gameproject
@@ -104,11 +107,14 @@ sections:
     advanced:
       css_style: "text-align: center;"
 
+  - block: features
+    content:
+      title: <span style="font-size:70%">Skill </span>
 
   - block: collection
     content:
       id: section-1
-      title: <span style="font-size:70%">skill</span>
+      title: 
       subtitle:
       text:
       count: 3
@@ -123,11 +129,14 @@ sections:
     advanced:
       css_style: "text-align: center;"
 
+  - block: features
+    content:
+      title: <span style="font-size:70%">Teaching </span>
 
   - block: collection
     content:
       id: section-3
-      title: <span style="font-size:70%">teaching</span>
+      title: 
       subtitle:
       text:
       count: 3
