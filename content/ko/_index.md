@@ -104,7 +104,7 @@ sections:
           - gameproject
           - backendproject
     design:
-      view: community/card
+      view: date-title-summary
       columns: '3'
     advanced:
       css_style: "text-align: center;"
